@@ -94,12 +94,10 @@ $(function(){
 </script>
 
 
-<div class="prof" style="text-align:center; font-size:20px; background:gray; padding-top:30px; width:50%; margin:auto; border:10px solid orange; border-radius:5px; padding-bottom:30px"> 
+
 
 	<form action="send.php" name="f1" method="POST">
-
-<div id="toppings">	
-<div class="dim" style="width:60%; margin:auto;">	
+		
 	<table border="1" cellpadding="5" style="text-align:center"> 
 		<tr> 
 			<th> </th>
@@ -140,16 +138,15 @@ $(function(){
 		
 		
 	</table>
-</div>	
-</div>
+
+
         <br><p>Total Amount</p><br>
         <div><input id="totalSum" name='sum'></div>
 
 
-			<input style="padding:10px 20px;margin-top:30px; background:orange; border:1px solid orange; border-radius:5px" type="submit" value="Submit">
+			<input type="submit" value="Submit">
 
 
-</form>	
-</div>	
+</form>		
 </body>
 </html>
