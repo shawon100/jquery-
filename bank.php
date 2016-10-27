@@ -103,37 +103,37 @@ $(function(){
 			<th> </th>
 			<th> Select Fees</th>
 			<th> Amount</th>
-			<th> Account no</th>
+			
 		</tr>
 		<tr> 
 			<td> <input type="checkbox" id="checkbox1" > </td>
 			<td> Semester Fees</td>
 			<td><input class="textboxes" id="textbox1" /> </td>
-			<td> 1</td>
+			
 		</tr>
 		<tr> 
 			<td> <input type="checkbox" id="checkbox2" > </td>
 			<td> Exam Fees</td>
 			<td><input class="textboxes" id="textbox2" /></td>
-			<td> 2</td>
+			
 		</tr>
 		<tr> 
 			<td> <input type="checkbox" id="checkbox3" > </td>
 			<td> Hall Charge</td>
 			<td><input class="textboxes" id="textbox3" /></td>
-			<td> 3</td>
+			
 		</tr>
 		<tr>
 			<td> <input type="checkbox" id="checkbox4" > </td>
 			<td> Course Fee</td>
 			<td><input class="textboxes" id="textbox4" /> </td>
-			<td> 4</td>
+			
 		</tr>
 		<tr> 
 			<td> <input type="checkbox" id="checkbox5" ></td>
 			<td> Session Fee</td>
 			<td><input class="textboxes" id="textbox5" /></td>
-			<td> 5</td>
+			
 		</tr>
 		
 		
